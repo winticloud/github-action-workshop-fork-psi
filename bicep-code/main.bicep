@@ -8,7 +8,7 @@ param subnetPrefix string = '10.0.1.0/24'
 
 targetScope = 'subscription'
 
-resource resourceGroup 'Microsoft.Resources/resourceGroups@2023-01-01' = {
+resource resourceGroup 'Microsoft.Resources/resourceGroups@2024-03-01' = {
   name: resourceGroupName
   location: location
 }
