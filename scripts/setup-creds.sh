@@ -6,12 +6,12 @@ set -e
 # =============================
 # Variables - Update these!
 # =============================
-SUBSCRIPTION_ID="d8948353-f901-401d-a1dd-f3ad3f6bddc1"
-TENANT_ID="cd02882c-7e32-4085-8c3f-65db58588adf"
+SUBSCRIPTION_ID="yoursubid"
+TENANT_ID="youtenantid"
 APP_NAME="github-workload-identity-app"
 FEDERATED_CREDENTIALS_NAME="github-actions-federated-credentials"
-GITHUB_ORG="kb-bag"
-GITHUB_REPO="github-action-workshop"
+GITHUB_ORG="githuborg"
+GITHUB_REPO="forkedreponame"
 BRANCH="main"  # or specify another branch if needed
 
 # =============================
