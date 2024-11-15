@@ -6,12 +6,12 @@ set -e
 # =============================
 # Variables - Update these!
 # =============================
-SUBSCRIPTION_ID="yoursubid"
-TENANT_ID="youtenantid"
+SUBSCRIPTION_ID="3e93b848-f45a-4efa-ae91-e508f932bfda"
+TENANT_ID="0f5c3aa5-56ab-4224-b319-eaf948e8063f"
 APP_NAME="github-workload-identity-app"
 FEDERATED_CREDENTIALS_NAME="github-actions-federated-credentials"
-GITHUB_ORG="githuborg"
-GITHUB_REPO="forkedreponame"
+GITHUB_ORG="winticloud"
+GITHUB_REPO="github-action-workshop-fork-psi"
 BRANCH="main"  # or specify another branch if needed
 
 # =============================
